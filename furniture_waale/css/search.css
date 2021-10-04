@@ -1,0 +1,39 @@
+.search-box form
+{
+	
+	border: none;
+	margin-top: 5px;
+
+
+}
+
+.form-control
+{
+	height: 30px;
+	
+	border-top-left-radius: 20px !important;
+	border-bottom-left-radius: 20px !important;
+	border-top-right-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+	box-shadow: none !important;
+}
+
+
+.search_button{
+    background: #fff;
+	margin: 1px 0px 0px 0px !important;
+	border-top-left-radius: 0px !important;
+	border-bottom-left-radius: 0px !important;
+	border-top-right-radius: 20px !important;
+	border-bottom-right-radius: 20px !important;
+	cursor: pointer;
+	font-size: 15px !important;
+
+   }
+
+
+.search-box
+{
+	display: inline-flex;
+	width: 300px;
+}
